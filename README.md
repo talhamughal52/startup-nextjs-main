@@ -13,7 +13,7 @@ If you're looking for a high-quality and visually appealing, feature-rich Next.j
 - TypeScript Support
 and Much More ... 
 
-### 🙌 Detailed comparison between the Free and Pro versions of Startup 
+### 🙌 Detailed comparison between the Free and Pro versions of Startup
 
 | Feature             | Free | Pro |
 |---------------------|------------|----------|
